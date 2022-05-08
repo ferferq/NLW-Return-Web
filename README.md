@@ -2,7 +2,7 @@
 ### NLW Retun é um evento da Rocketseat quem sempre trás novidades e praticamos muito!
 </p>
 <p align="center">
- Botão de abrir modal com funcionalidade de tirar print da tela e enviar feedbacks de Problema, Sujestão ou Outros. desenvolvido com ReactJs e Typescript, utilizamos bibliotecas como Tailwind para estilizar e headless para acessibilidade
+ Botão de abrir modal com funcionalidade de tirar print da tela e enviar feedbacks de Problema, Sugestão ou Outros. desenvolvido com ReactJs e Typescript, utilizamos bibliotecas como Tailwind para estilizar e headless para acessibilidade
 </p>
 
 <h1 align="center">
